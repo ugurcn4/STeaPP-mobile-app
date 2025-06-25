@@ -82,7 +82,7 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylı bilgi için LICENSE 
 
 Proje Sahibi - [@ugurcn4](https://github.com/ugurcn4)
 
-Proje Linki: [https://github.com/username/repo_name](https://github.com/username/STeaPP-mobile-app)
+Proje Linki: [https://github.com/ugurcn4/STeaPP-mobile-app]([https://github.com/username/STeaPP-mobile-app](https://github.com/ugurcn4/STeaPP-mobile-app))
 
 ## 🙏 Teşekkürler
 
