@@ -1,4 +1,4 @@
-# STeaPP - Konum Tabanlı Yerli Sosyal Medya Platformu🇹🇷
+# STeaPP - Konum Tabanlı Yerli Sosyal Medya Platformu 🇹🇷
 
 ## 📱 Proje Hakkında
 
