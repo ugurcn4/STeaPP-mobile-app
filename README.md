@@ -1,4 +1,4 @@
-# STeaPP - Akıllı Turizm ve Etkinlik Planlama Platformu
+# STeaPP - Konum Tabanlı Yerli Sosyal Medya Platformu🇹🇷
 
 ## 📱 Proje Hakkında
 
