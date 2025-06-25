@@ -1,0 +1,31 @@
+{
+  "cli": {
+    "version": ">= 15.0.10",
+    "appVersionSource": "remote"
+  },
+  "build": {
+    "development": {
+      "developmentClient": true,
+      "distribution": "internal",
+      "channel": "development"
+    },
+    "staging": {
+      "distribution": "internal",
+      "channel": "staging"
+    },
+    "production": {
+      "autoIncrement": true,
+      "channel": "production",
+      "distribution": "store"
+    }
+  },
+  "submit": {
+    "production": {
+      "ios": {
+        "appleId": "ucarugur07@gmail.com",
+        "ascAppId": "6742784316",
+        "appleTeamId": "DC4BD84S54"
+      }
+    }
+  }
+}
